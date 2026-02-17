@@ -1,0 +1,15 @@
+session-env/
+debug/
+cache/
+file-history/
+paste-cache/
+projects/
+shell-snapshots/
+statsig/
+telemetry/
+todos/
+tasks/
+settings.local.json
+history.jsonl
+stats-cache.json
+plans/
